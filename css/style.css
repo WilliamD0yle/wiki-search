@@ -1,0 +1,24 @@
+body{
+  background-color:rgb(118,147,233);
+}
+input{
+  height:40px;
+  box-sizing: border-box;
+  padding: 12px 20px;
+  border-radius:6px;
+  margin: 10px 0 10px 0;
+  font-size:1.5em;
+}
+
+.search-button{
+  background-color:rgba(255,90,90,0.9);
+  color:#F2f2f2;
+  margin-top:-5px;
+  height:40px;
+}
+.results{
+  background:rgb(241,244,252);
+  border-radius:6px;
+  margin-top:10px;
+  margin-bottom:10px;
+}
